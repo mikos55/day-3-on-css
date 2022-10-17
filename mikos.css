@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: "trebuchet ms", "lucida sans unicode",
+}
+.container{
+   background: red; 
+   color: yellow;
+
+
+   width:80%;
+   margin:0 auto;
+   padding:3em;
+}
+.intro-text{
+    width:50%;
+}
